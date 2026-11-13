@@ -1,6 +1,6 @@
 # Arch Linux Codespaces
 
-A lightweight Arch Linux dev container for GitHub Codespaces. The base includes zsh, Git, SSH, sudo, and shell utilities. Node.js, Python, and Go toolchains are opt-in build arguments.
+A lightweight Arch Linux dev container for GitHub Codespaces. The base includes zsh, Git, Git LFS, SSH, sudo, and shell utilities. Node.js, Python, and Go toolchains are opt-in build arguments.
 
 ## Use this environment
 
